@@ -17,32 +17,32 @@ This project provides a WebSQL polyfill using SQL.js, allowing you to use WebSQL
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/websql-polyfill.git
-cd websql-polyfill
+`git clone https://github.com/your-username/websql-polyfill.git
+cd websql-polyfill`
 
 2. Install dependencies:
-npm install
+`npm install`
 
 ## Usage
 
 ### Development
 
 To run the development server:
-npm start
+`npm start`
 
 This will start a development server at `http://localhost:9000` with hot reloading enabled.
 
 ### Production Build
 
 To create a production build:
-npm run build
+`npm run build`
 
 This will generate optimized files in the `websql-polyfill` directory.
 
 ### Serving Production Build
 
 To serve the production build:
-npm run serve
+`npm run serve`
 This will serve the production build at `http://localhost:3020`.
 
 ## Project Structure
